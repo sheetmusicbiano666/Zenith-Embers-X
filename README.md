@@ -2,4 +2,4 @@
 
 ## How to use
 
-You can change color in bar.png
+You can change color in (Keybords/Synthesia 9/bar.png) and (Keybords/Glow/bar.png).
